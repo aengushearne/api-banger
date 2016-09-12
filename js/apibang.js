@@ -1,7 +1,7 @@
 new Vue({
   el: '#app',
  		  data: {
- 		  	showMeUr: [],
+ 		  	showMeUr: '',
  		  	ajaxUrl: '',
   },
   methods: { 
